@@ -9,6 +9,7 @@ class Intro extends Component {
 
             <h1 className='greeting'> Greetings! </h1>
             <h3 className='introduction'> My name is Aaron and I am a full stack developer</h3>
+
           </div>
         )
     }
