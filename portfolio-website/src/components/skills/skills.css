@@ -7,3 +7,38 @@
     flex-direction: column;
     background-color: blueviolet;
 }
+
+.skillsHeader {
+    position: absolute;
+    top: 1820px;
+    font-size: 50px;
+}
+
+.skills{
+
+}
+
+.javaScriptSkills {
+
+}
+
+.javaScriptHeader {
+
+}
+
+.pythonSkills {
+
+}
+
+.pythonHeader {
+
+}
+
+.databaseSkills {
+
+}
+
+.databaseHeader {
+
+}
+
