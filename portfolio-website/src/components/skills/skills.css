@@ -10,7 +10,7 @@
 
 .skillsHeader {
     position: absolute;
-    top: 2000px;
+    top: 1850px;
     font-size: 50px;
 }
 
@@ -19,6 +19,7 @@
     background-color: white;
     justify-content: space-evenly;
     width: 100%;
+    padding-top: 25px;
 }
 
 .skills{
@@ -26,11 +27,22 @@
 }
 
 .html{
-
+    background-image: url('../../images/skills/HTML5_Logo_128.png');
+    background-repeat: no-repeat;
+    background-size: 85%;
+    background-position: center;
+    width:150px;
+    height: 150px;
 }
 
 .css {
-
+    background-image: url('../../images/skills/css-3-logo-png-original.png');
+    background-repeat: no-repeat;
+    background-size: 65%;
+    background-position: center;
+    width:150px;
+    height: 150px;
+    
 }
 
 .git {
@@ -42,15 +54,31 @@
 }
 
 .js {
-
+    background-image: url("http://pluspng.com/img-png/logo-javascript-png-java-script-js-logo-format-ai-javascript-logo-vector-png-213.png");
+    background-repeat: no-repeat;
+    background-size: 65%;
+    background-position: center;
+    width:150px;
+    height: 150px;
 }
 
 .react {
-
+    background-image: url("https://pngimage.net/wp-content/uploads/2018/06/react-logo-png-6.png");
+    background-repeat: no-repeat;
+    background-size: 95%;
+    background-position: center;
+    width:150px;
+    height: 150px;
 }
 
-.node {
 
+.node {
+    background-image: url("http://pluspng.com/img-png/nodejs-logo-png-node-js-development-296.png");
+    background-repeat: no-repeat;
+    background-size: 95%;
+    background-position: center;
+    width:150px;
+    height: 150px;
 }
 
 .pythonSkills {

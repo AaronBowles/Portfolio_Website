@@ -11,14 +11,14 @@ class Skills extends Component {
             <div className="flexcontainer">
 
             <div className="skills">
-                <div className="html">HTML</div>
-                <div className="html">CSS</div>
-                <div className="html">GIT</div>
+                <div className="html"></div>
+                <div className="css"></div>
+                <div className="git">GIT</div>
             </div>
             <div className="javaScriptSkills">
-              <div className="js">JavaScript</div>
-              <div className="react">React</div>
-              <div className="node">Node</div>
+              <div className="js"></div>
+              <div className="react"></div>
+              <div className="node"></div>
             </div>
             <div className="pythonSkills">
                 <div className="python">Python</div>
