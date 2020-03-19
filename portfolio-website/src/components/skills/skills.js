@@ -21,14 +21,14 @@ class Skills extends Component {
               <div className="node"></div>
             </div>
             <div className="pythonSkills">
-                <div className="python">Python</div>
-                <div className="django">Django</div>
+                <div className="python"></div>
+                <div className="django"></div>
             </div>
             <div className="databaseSkills">
-                <div className="sql">SQL</div>
-                <div className='oracle'>Oracle</div>
-                <div className="postgres">Postgres</div>
-                <div className='mongodb'>MongoDB</div>
+                <div className="sql"></div>
+                <div className='oracle'></div>
+                <div className="postgres"></div>
+                <div className='mongodb'></div>
             </div>
             </div>
           </div>

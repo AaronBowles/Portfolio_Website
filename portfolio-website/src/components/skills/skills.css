@@ -86,11 +86,22 @@
 }
 
 .python {
-
+    background-image: url('../../images/skills/python-logo-master-flat-200.png');
+    background-repeat: no-repeat;
+    background-size: 120%;
+    background-position: center;
+    width:150px;
+    height: 150px;
 }
 
-.django {
 
+.django {
+    background-image: url('../../images/skills/django-logo.png');
+    background-repeat: no-repeat;
+    background-size: 120%;
+    background-position: center;
+    width:150px;
+    height: 150px;
 }
 
 .databaseSkills {
@@ -98,17 +109,37 @@
 }
 
 .sql {
-
+    background-image: url('../../images/skills/sql-logo.png');
+    background-repeat: no-repeat;
+    background-size: 65%;
+    background-position: center;
+    width:150px;
+    height: 150px;
 }
 
 .oracle {
-
+    background-image: url('../../images/skills/oracle-logo.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    width:150px;
+    height: 150px;
 }
 
 .postgres {
-
+    background-image: url('../../images/skills/postgresql-logo.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    width:150px;
+    height: 150px;
 }
 
 .mongodb {
-
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/3/32/Mongo-db-logo.png");
+    background-repeat: no-repeat;
+    background-size: 110%;
+    background-position: center;
+    width:150px;
+    height: 150px;
 }
