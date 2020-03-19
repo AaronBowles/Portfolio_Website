@@ -8,26 +8,28 @@ class Skills extends Component {
           <div className="skillsContainer">
 
             <h1 className="skillsHeader"> Skills </h1>
+            <div className="flexcontainer">
 
             <div className="skills">
-                <h3>HTML</h3>
-                <h3>CSS</h3>
-                <h3>Git</h3>
+                <div className="html">HTML</div>
+                <div className="html">CSS</div>
+                <div className="html">GIT</div>
             </div>
             <div className="javaScriptSkills">
-              <h3>JavaScript</h3>
-              <h3>React</h3>
-              <h3>Node</h3>
+              <div className="js">JavaScript</div>
+              <div className="react">React</div>
+              <div className="node">Node</div>
             </div>
             <div className="pythonSkills">
-                <h3>Python</h3>
-                <h3>Django</h3>
+                <div className="python">Python</div>
+                <div className="django">Django</div>
             </div>
             <div className="databaseSkills">
-                <h3>SQL</h3>
-                <h3>Postgres</h3>
-                <h3>MongoDB</h3>
-                <h3>Oracle</h3>
+                <div className="sql">SQL</div>
+                <div className='oracle'>Oracle</div>
+                <div className="postgres">Postgres</div>
+                <div className='mongodb'>MongoDB</div>
+            </div>
             </div>
           </div>
         )

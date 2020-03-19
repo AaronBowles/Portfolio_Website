@@ -10,11 +10,30 @@
 
 .skillsHeader {
     position: absolute;
-    top: 1820px;
+    top: 2000px;
     font-size: 50px;
 }
 
+.flexcontainer {
+    display: inline-flex;
+    background-color: white;
+    justify-content: space-evenly;
+    width: 100%;
+}
+
 .skills{
+
+}
+
+.html{
+
+}
+
+.css {
+
+}
+
+.git {
 
 }
 
@@ -22,7 +41,15 @@
 
 }
 
-.javaScriptHeader {
+.js {
+
+}
+
+.react {
+
+}
+
+.node {
 
 }
 
@@ -30,7 +57,11 @@
 
 }
 
-.pythonHeader {
+.python {
+
+}
+
+.django {
 
 }
 
@@ -38,7 +69,18 @@
 
 }
 
-.databaseHeader {
+.sql {
 
 }
 
+.oracle {
+
+}
+
+.postgres {
+
+}
+
+.mongodb {
+
+}
