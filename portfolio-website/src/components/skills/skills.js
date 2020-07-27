@@ -13,7 +13,8 @@ class Skills extends Component {
             <div className="skills">
                 <div className="html"></div>
                 <div className="css"></div>
-                <div className="git">GIT</div>
+                <div className="git"></div>
+                <div className="github"></div>
             </div>
             <div className="javaScriptSkills">
               <div className="js"></div>

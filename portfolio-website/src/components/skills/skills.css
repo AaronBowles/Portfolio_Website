@@ -41,12 +41,27 @@
     background-size: 65%;
     background-position: center;
     width:150px;
-    height: 150px;
+    height:150px;
     
 }
 
 .git {
-
+    background-image: url('../../images/skills/64564.png');
+    background-repeat: no-repeat;
+    background-size: 65%;
+    background-position: center;
+    width: 200px;;
+    height: 150px;
+    
+}
+.github {
+    background-image: url('../../images/skills/kindpng_1280187.png');
+    background-repeat: no-repeat;
+    background-size: 65%;
+    background-position: center;
+    width: 200px;;
+    height: 150px;
+    
 }
 
 .javaScriptSkills {
