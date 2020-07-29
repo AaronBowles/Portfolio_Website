@@ -9,7 +9,7 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    color:yellowgreen;
+    color: rgb(52, 165, 165);
 }
 
 .greeting {
@@ -19,4 +19,7 @@
 }
 .introduction {
     font-size: 30px;
+    max-width: 300px;
+    
+
 }

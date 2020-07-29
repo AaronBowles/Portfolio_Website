@@ -7,3 +7,15 @@
     flex-direction: column;
     background-color: darkgreen;
 }
+
+.carousel-container {
+    height: 50%;
+    width: 50%;
+    background-color: white;
+
+
+}
+
+.projectsContainer {
+
+}
