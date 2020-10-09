@@ -10,7 +10,7 @@ class AboutMe extends Component {
             <h1 className="aboutTitle"> About Me </h1>
             <div className="aboutImg"></div>
             <div className="aboutInfo">
-                <p>This will be an introduction paragaph </p>
+                <p>My name is Aaron Bowles, I am a full-stack developer originally from Fairfax, Virginia. My intense passion for technology, science, progress and the environment have shaped my world view and motivated me to become a software developer. The endless possibilities of software developing have opened my eyes to an abundance of opportunities doing what I love. Helping others while growing as an individual is a rewarding and fulfilling pursuit that continues each and everyday.  </p>
                 <p>This will be additional info </p>
             </div>
           </div>
