@@ -9,8 +9,8 @@
 }
 
 .skillsHeader {
-    position: absolute;
-    top: 1950px;
+    position: relative;
+    
     font-size: 50px;
 }
 
