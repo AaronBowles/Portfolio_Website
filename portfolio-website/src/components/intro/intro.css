@@ -9,6 +9,7 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+    
     color: rgb(52, 165, 165);
 }
 
@@ -20,6 +21,14 @@
 .introduction {
     font-size: 30px;
     max-width: 300px;
+    padding: 10px;
     
+    
+}
 
+.greetingContainer {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5);
 }
