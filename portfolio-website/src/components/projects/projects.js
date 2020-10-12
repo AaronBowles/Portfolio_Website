@@ -16,7 +16,7 @@ class Projects extends Component {
         
 
             <div className="carousel-projects">
-
+            <img src={require("../../images/Project1Screenshot.png")} alt="Project1" className="project-images"/>
             </div>
 
               <div className='carousel-next'>

@@ -13,9 +13,25 @@
     width: 50%;
     background-color: white;
 
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.carousel-next {
+    z-index: 3;
+}
+
+.carousel-prev {
+    z-index: 3;
 
 }
 
-.projectsContainer {
 
+.project-images{
+    width: 90%;
+    background: #fa8d8e;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 2px 2px #f2cd99;
 }
