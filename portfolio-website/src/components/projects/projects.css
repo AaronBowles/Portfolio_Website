@@ -1,18 +1,28 @@
-.projectsContainer {
+.projects-container {
     height: 100vh;
     width: 100vw;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
+
     background-color: darkgreen;
 }
 
+h1 {
+    text-align: center;
+    padding-bottom: 20px;
+    font-size: 50px;
+}
+
+.projects-flexbox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+
+
+}
+
 .carousel-container {
-    height: 50%;
     width: 50%;
     background-color: white;
-
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -29,9 +39,10 @@
 
 
 .project-images{
-    width: 90%;
+    width: 100%;
     background: #fa8d8e;
     padding: 10px;
     border-radius: 10px;
     box-shadow: 2px 2px #f2cd99;
+    z-index: 1;
 }
